@@ -1,0 +1,194 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"alt	Attr"
+			],
+			[
+				"h",
+				"height	Attr"
+			],
+			[
+				"font-s",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/huyenvt/huyen-vu.github.io"
+	],
+	"file_history":
+	[
+		"/Users/huyenvt/LEARN_IT/HTML/index.html",
+		"/Users/huyenvt/LEARN_IT/HTML/bootstrap/css/bootstrap.css",
+		"/Volumes/Elements/The.Lobster.2015.HDRip.XviD.AC3-EVO/The.Lobster.2015.HDRip.XviD.AC3-EVO.srt",
+		"/Volumes/Elements/The.Ridiculous.6.2015.1080p.NF.WEBRip.DD5.1.x264-NTb[rarbg]/The.Ridiculous.6.2015.1080p.NF.WEBRip.DD5.1.x264-NTb.srt",
+		"/Users/huyenvt/Downloads/Blgen.2015.1080p.X264.VOSS ENG (1).srt",
+		"/Volumes/Elements/Warm Bodies 2013 1080p BRRip x264 AC3-JYK/Warm Bodies 2013 1080p BRRip x264 AC3-JYK.srt",
+		"/Volumes/Elements/Warm Bodies 2013 1080p BRRip x264 AC3-JYK/warm-bodies-yify-english.srt",
+		"/Users/huyenvt/Downloads/When Marnie Was There (2014) 5.srt",
+		"/Users/huyenvt/Downloads/When Marnie Was There (2014) 4.srt",
+		"/Users/huyenvt/Downloads/When Marnie Was There (2014) 3.srt",
+		"/Users/huyenvt/Downloads/When Marnie Was There (2014).srt",
+		"/Users/huyenvt/Downloads/Black.Mass.2015.HC.HDRip.XviD-iFT.srt",
+		"/Users/huyenvt/Downloads/Doctor Who S1E1 DVDRip.DD2.0.x264-Z.ass",
+		"/Users/huyenvt/Downloads/Doctor Who - 1x01 - Rose.en.srt"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "huyen-vu.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
