@@ -26,6 +26,15 @@
 				"buffer_size": 657,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "learn.html",
+			"settings":
+			{
+				"buffer_size": 218,
+				"line_ending": "Unix",
+				"name": "learn.html"
+			}
 		}
 	],
 	"build_system": "",
@@ -143,6 +152,35 @@
 					},
 					"stack_index": 0,
 					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "learn.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								145,
+								145
+							]
+						],
+						"settings":
+						{
+							"auto_name": "learn.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
 				}
 			]
 		}
@@ -153,7 +191,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
